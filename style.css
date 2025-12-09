@@ -45,8 +45,9 @@
 .input-box img{
     width: 25px;
     position: absolute;
-    right: 10px;
+    left: 10px;
     top: 10px;
     cursor: pointer;
+
 
 }
